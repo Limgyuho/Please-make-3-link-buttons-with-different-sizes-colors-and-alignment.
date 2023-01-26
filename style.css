@@ -1,0 +1,20 @@
+div{
+    /*텍스트의 위치를 조정*/
+    text-align:right;
+}
+div a{
+    font-size:3rem;
+    color: red;
+}
+nav{
+    text-align:center;
+}
+nav a{
+    font-size:5rem;
+    color: red;
+}
+section a{
+    font-size:7rem;
+    color: blue;
+}
+
